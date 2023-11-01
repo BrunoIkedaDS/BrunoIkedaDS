@@ -17,6 +17,7 @@ Olá! Sou Bruno Ikeda Silva, um entusiasta da Ciência de Dados com paixão por 
 ### Previsão de Popularidade de Músicas no Spotify
 Desenvolvi um modelo preditivo utilizando Python e os frameworks mencionados para prever a popularidade de músicas no Spotify com base em suas características. [Veja o projeto](https://github.com/BrunoIkedaDS/SpotifySongsPopularity);
 
+### Modelo de classificação de textos médicos com mini app Flask
 Criei uma mini aplicação web utilizando Flask simplificadamente em conjunto com um modelo KNN para classificação do tipo de mutação de gene a partir de textos médicos. [Veja o projeto](https://github.com/BrunoIkedaDS/MedicalTextClassifier), OBS: O projeto está todo em inglês;
 
 ## Cursos e Certificações

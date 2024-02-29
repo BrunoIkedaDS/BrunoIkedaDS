@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu Perfil no GitHub!
 
 ## Sobre Mim
-Olá! Sou Bruno Ikeda Silva, um entusiasta da Ciência de Dados com paixão por explorar e extrair insights valiosos dos dados. Estou sempre buscando novas habilidades tanto na área de ciência de dados quanto fora, acompanhando os avanços e atualidades da tecnologia , com enfoque em inteligência artificial.
+Olá! Sou Bruno Ikeda Silva, um entusiasta da Ciência de Dados com paixão por explorar e extrair insights valiosos dos dados. Estou sempre buscando novas habilidades tanto na área de ciência de dados quanto fora, acompanhando os avanços e atualidades da tecnologia, com enfoque em inteligência artificial.
 
 - 🌟 Apaixonado por análise de dados, estatística, machine learning e visualização.
 

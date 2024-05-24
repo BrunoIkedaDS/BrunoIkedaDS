@@ -25,6 +25,8 @@ Criei uma mini aplicação web utilizando Flask simplificadamente em conjunto co
 - Certificado em Python, R, Microsoft Azure.
 - Curso de Apache Spark e Hadoop.
 - Certificado em Machine Learning, incluindo: Aprendizagem Supervisionada e Não-Supervisionada.
+- Curso de Business Analytics, tendo realizado diversos estudos de caso.
+- Visualização de Dados e Design de Dashboards para a preparação de relatórios.
 - Leitor ávido e sempre em busca de aprendizado contínuo.
 
 ## Contato

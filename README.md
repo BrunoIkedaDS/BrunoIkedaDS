@@ -8,7 +8,7 @@ Olá! Sou Bruno Ikeda Silva, um entusiasta da Ciência de Dados com paixão por 
 ## Habilidades
 
 - **Linguagens de Programação:** Python, R, Java.
-- **Frameworks e Bibliotecas:** PyData Stack (numpy, pandas, matplotlib, seaborn, scikit-learn, etc), R Tidyverse + Machine Learning (dplyr, tidyr, ggplot2, caret, etc).
+- **Frameworks e Bibliotecas:** PyData Stack (numpy, pandas, matplotlib, seaborn, scikit-learn, etc), Tecnologias em IA generativa como langchain, R Tidyverse + Machine Learning (dplyr, tidyr, ggplot2, caret, etc).
 - **Ferramentas:** Jupyter Notebook, Git, Banco de Dados (SQL e NoSQL).
 - **Plataformas:** Microsoft Azure, Hadoop, Apache Spark, Atualmente estudando AWS.
 
